@@ -1,0 +1,22 @@
+{
+  "name": "my-first-rep",
+  "version": "1.0.0",
+  "description": "Tamashevich",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Svetatam/My-first-rep.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Svetatam/My-first-rep/issues"
+  },
+  "homepage": "https://github.com/Svetatam/My-first-rep#readme",
+  "dependencies": {
+    "fs-extra": "^10.1.0"
+  }
+}
